@@ -8,15 +8,15 @@
 - ✨ You can find my works here
 - 📫 How to reach me:
   
-<a href="https://t.me/iamdjalilova_r" style="margin-right: 40px;">
-  <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="30" height="30"/>
-</a>
-<a href="https://www.linkedin.com/in/robiya-jalilova-12535a37b/" style="margin-right: 40px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
-</a>
-<a href="mailto:robiyajalilova523@gmail.com">
-  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="30"/>
-</a>
+  <a href="https://t.me/iamdjalilova_r" style="margin-right: 40px;">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram" width="30" height="30"/>
+  </a>
+  <a href="https://www.linkedin.com/in/robiya-jalilova-12535a37b/" style="margin-right: 40px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
+  </a>
+  <a href="mailto:robiyajalilova523@gmail.com">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="30"/>
+  </a>
 
 <!--
 **jalilovarobiya/jalilovarobiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
