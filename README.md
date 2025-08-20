@@ -1,5 +1,6 @@
-Hi there, I'm Jalilova Robiya 👋  
-## I am a **Mobile Developer**
+<h2 align="center">Hi there, I'm Jalilova Robiya 👋</h2>
+<h3 align="center">I am a Mobile Developer</h3>
+
 
 
 - 🔭 I’m currently working on a few mobile apps
