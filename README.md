@@ -5,9 +5,15 @@
 - 💬 Ask me about Flutter, Dart, and mobile app development
 - 📫 How to reach me:
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/iamdjalilova_r)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robiya-jalilova-12535a37b)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robiyajalilova523@gmail.com)
+<a href="https://t.me/iamdjalilova_r">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" alt="Telegram" width="40" height="40"/>
+</a>
+<a href="https://www.linkedin.com/in/robiya-jalilova-12535a37b/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+</a>
+<a href="mailto:robiyajalilova523@gmail.com">
+  <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/>
+</a>
 
 
 <!--
