@@ -1,4 +1,4 @@
-## Hi there, I'm Jalilova Robiya 👋  
+Hi there, I'm Jalilova Robiya 👋  
 ## I am a **Mobile Developer**
 
 
